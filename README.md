@@ -1,2 +1,1 @@
-# srct
-Shadowrun Character Tool
+# Shadowrun Character Tool
